@@ -141,9 +141,6 @@ Smart_Attendance_System/
 2. *Attendance Marking*: Upload a class photo; the system processes it with `face_recognition1.py`, matches faces, and updates the attendance in MongoDB.
 3. *Results Display*: View the attendance table with present/absent statuses on the web interface.
 
-## 🎯 Project Intent
-
-Developed as a mini-project (BCS586) for Visvesvaraya Technological University, this system demonstrates the application of facial recognition, web development, and database management to solve real-world problems in education. It’s an excellent showcase of teamwork and technical skills by Abhinavaa S Kumar, Lakshmi Preksha, Risheek R, and Mohammed Shahid.
 
 ## 🔧 Customization
 
